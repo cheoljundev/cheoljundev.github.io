@@ -1,6 +1,6 @@
 ---
 title: testArticle
-parent: issues
+parent: issue
 ---
 
 # 테스트 아티클
