@@ -1,6 +1,7 @@
 ---
-title: Issue
+title: issue
 nav_order: 1
+parent: davinciCode
 ---
 
 # Issue
