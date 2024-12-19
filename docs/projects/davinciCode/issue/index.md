@@ -1,7 +1,7 @@
 ---
 title: issue
 nav_order: 1
-parent: davinciCode
+parent: 콘솔 다빈치코드
 ---
 
 # Issue
