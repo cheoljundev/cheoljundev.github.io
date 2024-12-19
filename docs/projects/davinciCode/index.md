@@ -1,7 +1,6 @@
 ---
-title: projects
-parent: davinciCode
-grand_parent: projects
+title: 콘솔 다빈치코드
+parent: projects
 ---
 
 # 🎲 콘솔 다빈치코드
