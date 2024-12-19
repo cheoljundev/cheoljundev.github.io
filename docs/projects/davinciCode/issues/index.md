@@ -1,5 +1,5 @@
 ---
-title: issue
+title: issues
 nav_order: 1
 parent: 콘솔 다빈치코드
 ---
