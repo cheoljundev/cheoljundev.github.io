@@ -111,7 +111,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Github Profile":
-    - "https://github.com/cheoljundev/cheoljundev.github.io"
+    - "https://github.com/cheoljundev"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
