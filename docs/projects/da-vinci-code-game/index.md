@@ -6,6 +6,8 @@ parent: projects
 
 # 🎲 콘솔 다빈치코드
 
+- [github repository](https://github.com/cheoljundev/console-da-vinci-code-the-game)
+
 **Console Da Vinci Code The Game**은 고전 보드게임 *다빈치코드*를 기반으로 한 자바 콘솔 게임입니다. 핵심적인 자바 프로그래밍 기술을 재미있게 연습할 수 있도록 설계된 이 프로젝트는 플레이어와 AI 상대 간의 치열한 대결을 제공합니다! 🖥️🤖
 
 ---
